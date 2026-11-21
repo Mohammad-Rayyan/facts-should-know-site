@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /facts-should-know-site/go/
+
+Sitemap: https://mohammad-rayyan.github.io/facts-should-know-site/sitemap.xml
