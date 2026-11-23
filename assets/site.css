@@ -48,6 +48,11 @@ p { margin: 0 0 1.1em; }
 .meta { color: var(--muted); font-size: 0.9rem; }
 .lede { font-size: 1.2rem; color: var(--ink); }
 
+.breadcrumb { color: var(--muted); font-size: 0.9rem; margin: 0 0 1rem; }
+.breadcrumb a { color: var(--muted); }
+.topics ul { list-style: none; margin: 0 0 1.5rem; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem 1.1rem; }
+.topics h2 { font-size: 1.1rem; margin: 1.5rem 0 0.6rem; }
+
 .hero { padding: 0.5rem 0 1.5rem; border-bottom: 1px solid var(--rule); margin-bottom: 1.5rem; }
 .hero p { color: var(--muted); font-size: 1.15rem; margin: 0; }
 
